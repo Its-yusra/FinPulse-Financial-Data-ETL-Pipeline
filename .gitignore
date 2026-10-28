@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Testing and logs
+.pytest_cache/
+.coverage
+logs/*.log
+
+# Node / React
+dashboard/node_modules/
+dashboard/dist/
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+data/finpulse.db
