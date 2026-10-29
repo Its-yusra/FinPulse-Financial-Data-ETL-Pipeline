@@ -59,7 +59,7 @@ FinPulse/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Its-yusra/FinPulse-Financial-Data-ETL-Pipeline.git)
 cd FinPulse
 ```
 
