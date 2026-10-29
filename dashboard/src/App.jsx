@@ -41,7 +41,7 @@ function App() {
         setMarketData(prices);
         setItems(scraped);
       } catch (err) {
-        setError("Backend connect nahi ho raha. Check karo ke FastAPI running hai.");
+        setError("Backend is not connected. Check FastAPI is running .");
       }
     }
 
